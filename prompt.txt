@@ -1,0 +1,44 @@
+goto https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+login with username "admin" and password "admin123"
+and then click login button
+and then user directed to main page - dashboard
+and then stay in main login page for 1 minute
+and then click logout
+and then redirect user back to main login page
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Navigate to the google doc link.
+https://docs.google.com/document/d/1eE7AKmMAzdqouXkW5AM95wrLKLqnCy1s/edit
+login with dhirajgupta48@gmail.com and Matawannj.1
+skip all security options
+
+Open the file named: Login and Logout Functionality Validation Across Multiple Browsers.
+
+Analyze User Story Content:
+Parse and analyze the contents of the opened user story file to understand the requirements and specifications.
+
+Generate Test Cases:
+
+Create a set of test cases based on the following criteria:
+Functional Scenarios: Test the core login and logout functionalities.
+Positive Scenarios: Verify successful login and logout with valid credentials.
+Negative Scenarios: Test login failures with invalid credentials, incorrect formats, etc.
+Edge Cases: Include tests for extreme inputs (e.g., very long usernames, special characters).
+Cross-Browser Testing: Ensure compatibility across Chrome, Firefox, and Edge browsers.
+Security Testing: Cover SQL injection and brute force attack vulnerabilities.
+Performance Testing: Measure response times and handle concurrent user scenarios.
+Accessibility Testing:
+Implement tests covering all 13 WCAG 2.1 guidelines:
+Perceivable: Text alternatives, adaptable content, distinguishable elements.
+Operable: Keyboard accessibility, time limits, seizure prevention, navigation.
+Understandable: Readable text, input assistance.
+Robust: Compatibility with assistive technologies.
+Create Test Case File:
+
+Generate a test case file (e.g., CSV, XLSX, or a structured text file) with the following columns:
+Description: A clear description of the test case.
+Scenario: The specific scenario being tested (e.g., "Valid Login," "Invalid Password").
+Expected Result: The anticipated outcome of the test.
+Actual Result: The observed outcome of the test (to be filled during execution).
+Status: "Pass" or "Fail" (to be filled during execution).

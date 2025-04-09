@@ -1,0 +1,9 @@
+Goto:
+C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\AI_Agent_QA_Automation_LLM_BrowserUse_WebUI\web-ui>
+
+Run command:
+python webui.py --ip 127.0.0.1 --port 7788
+
+Open browser and login with:
+* Running on local URL:  http://127.0.0.1:7788
+
